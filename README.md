@@ -7,3 +7,7 @@
 - Fastify
 - TypeScrit
 - React (MUI)
+
+## Источники
+https://github.com/Ikysu/midis-db-cource
+https://github.com/Ikysu/midis-db-cource-server
