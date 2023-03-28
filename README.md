@@ -11,3 +11,5 @@
 ## Источники
 - https://github.com/Ikysu/midis-db-cource
 - https://github.com/Ikysu/midis-db-cource-server
+
+![image](https://user-images.githubusercontent.com/31385763/228198259-1c0c5f12-e77a-4472-8f53-06b34eefdffd.png)
